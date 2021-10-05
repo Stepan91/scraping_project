@@ -7,6 +7,7 @@ import time
 import base64
 import os
 
+
 # пути до файлов .xlsx и chromedriver
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_PATH = os.path.join(ROOT_DIR, 'данные физ.лица.xlsx')
